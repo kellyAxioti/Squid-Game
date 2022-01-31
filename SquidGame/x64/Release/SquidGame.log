@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  AnimationMinus.cpp
+  AnimationPlus.cpp
+  BadGuy.cpp
+  Cell.cpp
+  Circle.cpp
+  Game.cpp
+C:\Users\kelly\source\repos\SquidGame\SquidGame\Game.cpp(47,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kelly\source\repos\SquidGame\SquidGame\Game.cpp(48,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kelly\source\repos\SquidGame\SquidGame\Game.cpp(105,19): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\kelly\source\repos\SquidGame\SquidGame\Game.cpp(248,19): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameBoard.cpp
+  Girl.cpp
+  Main.cpp
+  RectangleOb.cpp
+  Score.cpp
+  Star.cpp
+  Triangle.cpp
+  Generating code
+  475 of 475 functions (100.0%) were compiled.
+    474 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SquidGame.vcxproj -> C:\Users\kelly\source\repos\SquidGame\bin\SquidGame.exe
